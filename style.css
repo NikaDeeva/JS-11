@@ -1,0 +1,9 @@
+#hourElement, #secElement{
+    padding: 20px 10px;
+    border: 2px double royalblue;
+    border-radius: 4px;
+    font-size: 30px;
+    font-weight: 600;
+    width: 100px;
+    transition: transform 500ms ease;
+}
